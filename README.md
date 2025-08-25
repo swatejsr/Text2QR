@@ -1,4 +1,4 @@
-# 🔳 QR Generator
+# 🔳 Text2QR
 
 A simple and fast QR Code Generator that allows you to create QR codes for any text input. Just type, generate, and share! 🚀
 
