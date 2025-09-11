@@ -1,7 +1,7 @@
 <div align="center">
 
   <br />
-  <img src="https://img.icons8.com/ios/500/code-file.png" alt="Project Hero Image" width="200" />
+  <img src="Final.png" alt="Project Hero Image" width="200" />
   <br />
 
   <h1>🔳 Text2QR</h1>
